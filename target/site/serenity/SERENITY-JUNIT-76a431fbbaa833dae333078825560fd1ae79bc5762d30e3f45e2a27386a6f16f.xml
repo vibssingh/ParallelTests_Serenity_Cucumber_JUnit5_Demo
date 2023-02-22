@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Login to HRM" skipped="0" tests="3" time="62.3" timestamp="2023-02-22 03:22:22"><testcase name="Login with valid credentials"/><testcase name="Login with blank username"/><testcase name="Login with invalid credentials"/></testsuite>
