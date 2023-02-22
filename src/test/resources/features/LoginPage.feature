@@ -7,8 +7,7 @@ Feature: Login to HRM
     When User enters username as "Admin"
     And User enters password as "admin123"
     Then User should be able to login successfully
-
-
+    
   @InValidCredentials
   Scenario: Login with invalid credentials
 
