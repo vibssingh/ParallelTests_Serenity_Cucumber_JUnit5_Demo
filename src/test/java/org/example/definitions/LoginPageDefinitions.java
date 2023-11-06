@@ -3,7 +3,7 @@ package org.example.definitions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import net.thucydides.core.annotations.Steps;
+import net.serenitybdd.annotations.Steps;
 import org.example.steps.StepHomePage;
 import org.example.steps.StepLoginPage;
 import static org.junit.jupiter.api.Assertions.*;
@@ -16,10 +16,10 @@ public class LoginPageDefinitions {
     @Steps
     StepHomePage homePage;
 
-
     @Given("User is on Home page")
     public void openApplication() {
         loginPage.open();
+
     }
 
     @When("User enters username as {string}")

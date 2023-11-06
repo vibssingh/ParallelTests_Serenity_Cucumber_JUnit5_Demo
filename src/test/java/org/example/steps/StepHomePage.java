@@ -1,9 +1,10 @@
 package org.example.steps;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import net.serenitybdd.annotations.Step;
 import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.core.pages.WebElementFacade;
-import net.thucydides.core.annotations.Step;
 import org.openqa.selenium.support.FindBy;
 
 public class StepHomePage extends PageObject {

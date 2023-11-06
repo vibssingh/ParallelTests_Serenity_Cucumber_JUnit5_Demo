@@ -1,8 +1,8 @@
 package org.example.steps;
 
+import net.serenitybdd.annotations.Step;
 import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.core.pages.WebElementFacade;
-import net.thucydides.core.annotations.Step;
 import org.openqa.selenium.support.FindBy;
 
 public class StepLoginPage extends PageObject {

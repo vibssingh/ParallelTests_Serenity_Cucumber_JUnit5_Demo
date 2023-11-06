@@ -1,4 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Login to HRM","Login with valid credentials","SUCCESS","2023-02-22T15:22:22.3056105Z[Europe/London]","0.0","20.12"
-"Login to HRM","Login with blank username","SUCCESS","2023-02-22T15:22:22.3196601Z[Europe/London]","0.0","21.1"
-"Login to HRM","Login with invalid credentials","SUCCESS","2023-02-22T15:22:22.3344804Z[Europe/London]","0.0","21.08"

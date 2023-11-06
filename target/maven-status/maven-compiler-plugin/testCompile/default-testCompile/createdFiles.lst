@@ -1,4 +1,0 @@
-org\example\definitions\LoginPageDefinitions.class
-org\example\steps\StepHomePage.class
-org\example\runner\CucumberTestSuite.class
-org\example\steps\StepLoginPage.class
